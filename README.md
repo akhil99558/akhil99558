@@ -1,19 +1,13 @@
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="160">
-        <img src="https://github.com/akhil99558/akhil99558/blob/main/Otty_dp.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;">
-      </td>
-      <td align="center">
-        <h1>Hi there 👋, I'm Akhil Samsun Mende!</h1>
-        <p>
-          Welcome to my GitHub! 🚀<br>
-          Passionate about <b>Software Development</b> and <b>Artificial Intelligence</b>.<br>
-          I build Web Apps, AI/ML Projects, and Cloud-Native Solutions.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/akhil99558/akhil99558/blob/main/Otty_dp.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
+</p>
+
+<h1 align="center">Hi there 👋, I'm Akhil Samsun Mende!</h1>
+
+<p align="center">
+  Welcome to my GitHub! 🚀<br>
+  Passionate about <b>Software Development</b> and <b>Artificial Intelligence</b>.<br>
+  I build Web Apps, AI/ML Projects, and Cloud-Native Solutions.
 </p>
 
 ---
