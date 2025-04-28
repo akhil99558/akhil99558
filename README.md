@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/akhil99558/akhil99558/blob/main/Otty_dp.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 # Hi there 👋 I'm Akhil Samsun Mende!
 
 Welcome to my GitHub profile! 🚀 I'm passionate about **Software Development** and **Artificial Intelligence**, and I love working on **web applications, AI/ML projects, and cloud-native solutions**.
